@@ -1,7 +1,7 @@
 
 <!-- <img width="1584" height="396" alt="Black and Yellow Modern Professional Personal Profile LinkedIn Background Photo" src="https://github.com/user-attachments/assets/ab97c41a-831a-44cf-94b8-5a5ccd49ee6d" /> -->
+<img width="1200" height="400" alt="Ahnaf Chowdhury (2)" src="https://github.com/user-attachments/assets/ae07647a-cccd-49d4-aab2-18013c13e8de" />
 
-<img width="1584" height="396" alt="Ahnaf Chowdhury" src="https://github.com/user-attachments/assets/3e07c8be-066c-439f-a7a2-98bec1dbb70a" />
 
 <h1 align="center">Hi 👋, I'm Ahnaf Chowdhury</h1>
 <h3 align="center">A passionate MERN STACK developer</h3>
