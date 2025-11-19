@@ -6,7 +6,8 @@
 <h1 align="center">Hi 👋, I'm Ahnaf Chowdhury</h1>
 <h3 align="center">A passionate MERN STACK developer</h3>
 
-
+<h1 align = "left">About Me</h1>
+<p align = "left"> I enjoy the challenge of building reating responsive, user-friendly web applications using MongoDB, Express.js, React, and Node.js. I’m continuously learning, improving my problem-solving abilities, and building real projects to sharpen my skills. My goal is to grow as a full-stack developer and contribute to meaningful, impactful applications </p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -14,9 +15,9 @@
 <a href="https://linkedin.com/in/ahnaf-c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahnaf-c" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h1 align="left">Tech Stack:</h1>
 
-<h3 align="left">Front-End Technologies:</h3>
+<h1 align="left">Front-End Technologies:</h1>
 
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
