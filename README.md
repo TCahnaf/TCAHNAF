@@ -7,7 +7,7 @@
 <h3 align="center">A passionate MERN STACK developer</h3>
 
 <h1 align = "left">About Me</h1>
-<p align = "left"> I enjoy the challenge of building reating responsive, user-friendly web applications using MongoDB, Express.js, React, and Node.js. I’m continuously learning, improving my problem-solving abilities, and building real projects to sharpen my skills. My goal is to grow as a full-stack developer and contribute to meaningful, impactful applications </p>
+<p align = "left"> I enjoy the challenge of building responsive, user-friendly web applications using MongoDB, Express.js, React, and Node.js. I’m continuously learning, improving my problem-solving abilities, and building real projects to sharpen my skills. My goal is to grow as a full-stack developer and contribute to meaningful, impactful applications </p>
 
 
 
