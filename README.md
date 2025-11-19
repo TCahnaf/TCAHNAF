@@ -1,3 +1,8 @@
+
+<img width="1584" height="396" alt="Black and Yellow Modern Professional Personal Profile LinkedIn Background Photo" src="https://github.com/user-attachments/assets/ab97c41a-831a-44cf-94b8-5a5ccd49ee6d" />
+
+
+
 <h1 align="center">Hi 👋, I'm Ahnaf Chowdhury</h1>
 <h3 align="center">A passionate Mern Stack developer</h3>
 
