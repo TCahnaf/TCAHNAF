@@ -10,7 +10,14 @@
 <p align = "left"> I enjoy the challenge of building responsive, user-friendly web applications using MongoDB, Express.js, React, and Node.js. I’m continuously learning, improving my problem-solving abilities, and building real projects to sharpen my skills. My goal is to grow as a full-stack developer and contribute to meaningful, impactful applications </p>
 
 
+<h1>Current Activities</h1>
 
+<p>
+ <u1>
+  <li> Building Project using Next JS</li>
+  <li> Learning TypeScript</li>
+ </u1>
+</p>
 
 
 <h1 align="left">Tech Stack</h1>
