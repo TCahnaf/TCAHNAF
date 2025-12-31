@@ -31,11 +31,11 @@
 <h1 align="left">Github Stats:</h1>
 
 <p align = "center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tcahnaf&show_icons=true&locale=en&layout=compact" alt="TCahnaf" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TCahnaf&show_icons=true&locale=en&layout=compact" alt="TCahnaf" />
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tcahnaf&show_icons=true&locale=en" alt="TCahnaf" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TCahnaf&show_icons=true&locale=en" alt="TCahnaf" />
 
-<img align="center" src="https://streak-stats.demolab.com?user=tcahnaf" alt="TCahnaf" />
+<img align="center" src="https://streak-stats.demolab.com?user=TCahnaf" alt="TCahnaf" />
 
 </p>
 
