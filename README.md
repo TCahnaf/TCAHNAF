@@ -28,12 +28,17 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
 
 
-<h1 align="left">Github Stats:</h1>
+<h1 align="left">  📊 Github Stats:</h1>
 
 <p align = "center">
 
-##  📊 GitHub Stats
+<div align="center">
 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TCahnaf&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TCahnaf&theme=tokyonight)
+
+</div>
 
 
 
